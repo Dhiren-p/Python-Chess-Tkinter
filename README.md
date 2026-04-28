@@ -22,12 +22,12 @@ I built this project to challenge myself with **Logic and State Management**.
 🔍 Code Glossary & Piece Mapping
 The variable names and methods in this project use traditional terminology from when I first developed the logic according to Indian names. Here is how they map to standard English chess pieces:
 
-Raja → King
-Rani → Queen
-Hathi → Rook
-Unth → Bishop
-Ghoda → Knight
-Sainik_w → White Pawn
+Raja → King,
+Rani → Queen,
+Hathi → Rook,
+Unth → Bishop,
+Ghoda → Knight,
+Sainik_w → White Pawn,
 Sainik_b → Black Pawn
 
 
