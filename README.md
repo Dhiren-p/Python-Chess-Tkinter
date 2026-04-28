@@ -1,4 +1,4 @@
-# ♟️ Python Chess Project: A Coding Journey
+# ♟️ Python Chess Project: A Coding Journey (YEAR : 2021)
 
 ### 🐍 Milestone Project | Language: Python (Tkinter)
 This repository contains **891 lines of code** that I wrote while teaching myself how to program. It represents a major milestone in my journey to becoming a Software Engineer.
